@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 19.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "gmc_SQL", "gmc_SQL\gmc_SQL.ssmssqlproj", "{232AF7DE-A990-4DEF-B81C-3235486C028B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74723F27-D6AD-421B-85B3-CB6C2532C5EB}.Default|Default.ActiveCfg = Default
+		{232AF7DE-A990-4DEF-B81C-3235486C028B}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EC26CFD-7CC0-4F82-998C-21973F4784B6}
+	EndGlobalSection
+EndGlobal
